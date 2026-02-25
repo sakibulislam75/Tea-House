@@ -41,11 +41,24 @@
 
 <div align="center">
 
-| Hero Section | Featured Products |
-|:---:|:---:|
-| <img src="./images/hero.png" width="400" height="250" alt="Hero Section"/> | <img src="./images/fproduct.png" width="400" height="250" alt="Featured Products"/> |
-| **Meet-Our-Super-Client** | **News & Events** |
-| <img src="./images/c.png" width="400" height="250" alt="Fresh Tea"/> | <img src="./images/news.png" width="400" height="250" alt="News"/> |
+<table>
+  <tr>
+    <td align="center"><b>Hero Section</b></td>
+    <td align="center"><b>Featured Products</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images/hero.png" width="580" height="340" alt="Hero Section" /></td>
+    <td><img src="./images/fproduct.png" width="580" height="340" alt="Featured Products" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Meet Our Super Client</b></td>
+    <td align="center"><b>News & Events</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images/c.png" width="580" height="340" alt="Meet Our Super Client" /></td>
+    <td><img src="./images/news.png" width="580" height="340" alt="News & Events" /></td>
+  </tr>
+</table>
 
 </div>
 

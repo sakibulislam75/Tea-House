@@ -43,7 +43,7 @@
 
 | Hero Section | Featured Products |
 |:---:|:---:|
-| <img src="./images/hero.png.png" width="400" height="250" alt="Hero Section"/> | <img src="./images/fproduct.png" width="400" height="250" alt="Featured Products"/> |
+| <img src="./images/hero.png" width="400" height="250" alt="Hero Section"/> | <img src="./images/fproduct.png" width="400" height="250" alt="Featured Products"/> |
 | **Meet-Our-Super-Client** | **News & Events** |
 | <img src="./images/c.png" width="400" height="250" alt="Fresh Tea"/> | <img src="./images/news.png" width="400" height="250" alt="News"/> |
 
